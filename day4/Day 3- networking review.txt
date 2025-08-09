@@ -1,9 +1,0 @@
-Layer 7 - windows x services
-layer 6: --
-layer 5: nbstat -n  - datastream
-layer4: ports: netstat -ano
-layer3: route print
-layer2: frame/mac-address - getmac /v /fo list
-layer1 : bits - ncpa.cpl
-
-
